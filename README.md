@@ -1,2 +1,2 @@
 # phonePickerWithCountryCodeAndFlag-
-<img height="600"  src="https://postimg.org/image/uompj67lh/" />
+<img height="600"  src="https://s26.postimg.org/ubvbczpbt/app_icon.png" />
