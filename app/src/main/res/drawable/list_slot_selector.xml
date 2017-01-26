@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_enabled="true" android:state_pressed="true" android:drawable="@color/textcolor" />
+    <item android:state_enabled="true" android:state_focused="true" android:drawable="@color/textcolor" />
+    <item android:state_enabled="true" android:state_selected="true" android:drawable="@color/textcolor" />
+
+</selector>
+
+
+<!--
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    &lt;!&ndash;<item android:state_focused="true" android:drawable="@color/textcolor" />&ndash;&gt;
+    &lt;!&ndash;<item android:state_selected="true" android:drawable="@color/textcolor" />&ndash;&gt;
+    &lt;!&ndash;<item android:drawable="@color/textcolor" />&ndash;&gt;
+
+    <item android:state_enabled="true" android:state_pressed="true" android:drawable="@color/textcolor" />
+    <item android:state_enabled="true" android:state_focused="true" android:drawable="@color/textcolor" />
+    <item android:state_enabled="true" android:state_selected="true" android:drawable="@color/textcolor" />
+    <item android:drawable="@color/textcolor" />
+
+</selector> -->

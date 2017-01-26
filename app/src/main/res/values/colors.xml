@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#FF4081</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textcolor">#30d0bc</color>
+    <color name="continuecol">#252933</color>
+    <color name="new_button_text_color">#404049</color>
+</resources>
