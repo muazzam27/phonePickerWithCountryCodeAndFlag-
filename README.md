@@ -12,5 +12,3 @@ Steps to import project - <br>
 <img height="600"  src="https://s26.postimg.org/osnb2thix/Screenshot_20170126_134756.png" />
 
 
-![](https://jitpack.io/v/muazzam27/phonePickerWithCountryCodeAndFlag-.svg)](https://jitpack.io/#muazzam27/phonePickerWithCountryCodeAndFlag-)
-
